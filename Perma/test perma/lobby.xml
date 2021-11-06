@@ -1,0 +1,123 @@
+<GameMode xmlns="Schema.xsd" version="7.0" name="Lobby" id="0">
+
+  <!--This Games Rules was make by Perma-->
+
+  <PlayerGameType>Lobby</PlayerGameType>
+
+  <TeamBasedSpawn>false</TeamBasedSpawn>
+  <LockedInventory>false</LockedInventory>
+  <ShowNametags>true</ShowNametags>
+  <CanTntDestroyBlocks>false</CanTntDestroyBlocks>
+
+  <PlayerAbilities>
+    <Instabuild>false</Instabuild>
+    <Invulnerable>false</Invulnerable>
+  </PlayerAbilities>
+
+  <Timers>
+    <!-- 4J-JEV: Yay Timers! Measured in seconds. -->
+
+    <!-- Time spent in lobby before selecting gamemode. -->
+    <GameInitialise duration="15" announceEvery="1"/>
+
+    <!-- Time spent in lobby between rounds. -->
+    <LobbyInterval duration="60" announceEvery="1"/>
+  </Timers>
+
+  <Sounds>
+    <LobbyTimer forLast="5"/>
+  </Sounds>
+
+  <DestroyPermissions mode="WhiteList"/>
+  <PlacePermissions mode="WhiteList"/>
+  <UsePermissions mode="WhiteList">
+    <!-- Bow -->
+    <Exception id="261"/>
+    <!-- Arrow -->
+    <Exception id="262"/>
+    <!-- Fishing rod -->
+    <Exception id="346"/>
+    <!-- Snowballs -->
+    <Exception id="332"/>
+    <!-- Elytra -->
+    <Exception id="443"/>
+    <!-- Ward Disc -->
+    <Exception id="2265"/>
+    <!-- 13 Disc -->
+    <Exception id="2256"/>
+    <!-- Strad Disc -->
+    <Exception id="2264"/>
+    <!-- 11 Disc -->
+    <Exception id="2266"/>
+    <!-- here are we now Disc -->
+    <Exception id="2267"/>
+    <!-- Cat Disc -->
+    <Exception id="2257"/>
+    <!-- Blocks Disc -->
+    <Exception id="2258"/>
+    <!-- Chirp Disc -->
+    <Exception id="2259"/>
+    <!-- Far Disc -->
+    <Exception id="2260"/>
+    <!-- Stal Disc -->
+    <Exception id="2263"/>
+    <!-- Mall Disc -->
+    <Exception id="2261"/>
+    <!-- Mellohi Disc -->
+    <Exception id="2262"/>
+  </UsePermissions>
+  <BlockUsePermissions mode="WhiteList">
+    <!-- Oak Door -->
+    <Exception id="64"/>
+    <!-- Iron Door -->
+    <Exception id="71"/>
+    <!-- Spruce Door -->
+    <Exception id ="193"/>
+    <!-- Birch Door -->
+    <Exception id="194"/>
+    <!-- Jungle Door -->
+    <Exception id="195"/>
+    <!-- Acacia Door -->
+    <Exception id="196"/>
+    <!-- Dark Oak Door -->
+    <Exception id="197"/>
+
+    <!-- Iron TrapDoor -->
+    <Exception id="167"/>
+    <!-- Wooden TrapDoor -->
+    <Exception id="96"/>
+
+    <!-- Stone Button -->
+    <Exception id="77"/>
+    <!-- Woodean Button -->
+    <Exception id ="143"/>
+
+    <!-- Lever -->
+    <Exception id="69"/>
+
+    <!-- Chest -->
+    <Exception id ="54"/>
+    <!-- Ender chest -->
+    <Exception id="130"/>
+    <!-- Trapped Chest -->
+    <Exception id="146"/>
+    <!-- Note Block -->
+     <Exception id="25"/>
+    <!-- Jukebox -->
+     <Exception id="84"/>
+
+    <!-- Oak Fence Gate -->
+     <Exception id="107"/>
+    <!-- Spruce Fence Gate -->
+     <Exception id="183"/>
+    <!-- Birch Fence Gate -->
+     <Exception id="184"/>
+    <!-- Jungle Fence Gate -->
+     <Exception id="185"/>
+    <!-- Dark Fence Gate -->
+     <Exception id="186"/>
+    <!-- Acacia Fence Gate -->
+     <Exception id="187"/>
+  </BlockUsePermissions>
+
+</GameMode>
