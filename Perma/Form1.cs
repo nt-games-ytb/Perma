@@ -6316,7 +6316,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\DLC\1st Birthday Skin Pack\";
+            chemin.Text = @"content\WiiU\CU\DLC\1st Birthday Skin Pack\";
             file.Text = "WiiUSkinsBirthday1.pck";
             try
             {
@@ -6394,7 +6394,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\DLC\2nd Birthday Skin Pack\";
+            chemin.Text = @"content\WiiU\CU\DLC\2nd Birthday Skin Pack\";
             file.Text = "Pack2ndBirthday.pck";
             try
             {
@@ -6472,7 +6472,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\DLC\Minecon 2016 Skin Pack\";
+            chemin.Text = @"content\WiiU\CU\DLC\Minecon 2016 Skin Pack\";
             file.Text = "SkinsMinecon2016.pck";
             try
             {
@@ -6550,7 +6550,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\DLC\Minecon Earth 2017\";
+            chemin.Text = @"content\WiiU\CU\DLC\Minecon Earth 2017\";
             file.Text = "SkinsMineconEarth2017.pck";
             try
             {
@@ -8983,7 +8983,7 @@ namespace Perma
                     { }
                     try
                     {
-                        chemin.Text = @"content\WiiU\Sound";
+                        chemin.Text = @"content\WiiU\Sound\";
                         uploadFile(@"Upload\Minecraft.msscmp");
                         File.Delete(@"Upload\Minecraft.msscmp");
                         progressBar4.Value = progressBar4.Value + 1;
@@ -9587,7 +9587,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\Common\Media";
+            chemin.Text = @"content\Common\Media\";
             file.Text = "MediaWiiU.arc";
             try
             {
@@ -9743,7 +9743,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\Tutorial";
+            chemin.Text = @"content\WiiU\Tutorial\";
             file.Text = "Tutorial.mcs";
             try
             {
@@ -9821,7 +9821,7 @@ namespace Perma
                 region.Text = "101dbe00";
             }
             app.Text = "0005000e";
-            chemin.Text = @"content\WiiU\Tutorial";
+            chemin.Text = @"content\WiiU\Tutorial\";
             file.Text = "Tutorial.pck";
             try
             {
