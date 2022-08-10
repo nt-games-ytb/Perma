@@ -1,7 +1,6 @@
 C:\Users\toron\source\repos\Perma\bin\Debug\Perma.exe.config
 C:\Users\toron\source\repos\Perma\bin\Debug\Perma.exe
 C:\Users\toron\source\repos\Perma\bin\Debug\Perma.pdb
-C:\Users\toron\source\repos\Perma\obj\Debug\Perma.csprojAssemblyReference.cache
 C:\Users\toron\source\repos\Perma\obj\Debug\Perma.Form1.resources
 C:\Users\toron\source\repos\Perma\obj\Debug\Perma.Properties.Resources.resources
 C:\Users\toron\source\repos\Perma\obj\Debug\Perma.csproj.GenerateResource.cache
@@ -27,3 +26,5 @@ C:\Users\toron\source\repos\Perma\obj\Debug\es\Perma.resources.dll
 C:\Users\toron\source\repos\Perma\obj\Debug\fr\Perma.resources.dll
 C:\Users\toron\source\repos\Perma\obj\Debug\it\Perma.resources.dll
 C:\Users\toron\source\repos\Perma\obj\Debug\ja\Perma.resources.dll
+C:\Users\toron\source\repos\Perma\obj\Debug\Perma.csproj.AssemblyReference.cache
+C:\Users\toron\source\repos\Perma\obj\Debug\Perma.csproj.SuggestedBindingRedirects.cache
