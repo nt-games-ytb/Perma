@@ -7,5 +7,15 @@ I made a video to present this : https://www.youtube.com/watch?v=zD_UBy2ampw&t=9
 # How do I compile ? 
 You can compile this with [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or with other development software in C#.
 
+# Idea for the next update ?    
+I never got around to doing them but here are the ideas I had planned for future updates :    
+- Finish the minigames page (gamerules creator and minigames map)    
+- Finish the music page (for extract and replace Minecraft musics)    
+- Add a the maps page (for extract and replace Minecraft Wii U maps and edit .ext files)    
+- Add a feature to know how many Minecraft you have on your Wii U and where they are    
+- Fix problems with file uploads on my old server/host    
+- Fix all bugs    
+- Make a mobile/phone version    
+
 # Credits
 **nt games** for making the code.    
