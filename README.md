@@ -8,7 +8,7 @@ I think the idea was good but the communication I did did not work and few peopl
 # How do I compile ? 
 You can compile this with [Microsoft Visual Studio](https://visualstudio.microsoft.com/) or with other development software in C#.
 
-# Idea for the next update ?    
+# Any ideas for future updates ?    
 I never got around to doing them but here are the ideas I had planned for future updates :    
 - Finish the minigames page (gamerules creator and minigames map)    
 - Finish the music page (for extract and replace Minecraft musics)    
